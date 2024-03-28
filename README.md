@@ -1,0 +1,2 @@
+# Simplotel
+Simple webpage
